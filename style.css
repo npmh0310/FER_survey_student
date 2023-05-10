@@ -1,0 +1,49 @@
+body {
+  background-color: #f47b0a;
+}
+h1 {
+  text-align: center;
+}
+
+#table {
+  width: 400px;
+  height: auto;
+  padding: 30px 10px;
+  border: 1px solid black;
+  background-color: white;
+  margin: auto;
+}
+
+.text {
+  margin: 5px 10px 20px 0;
+  width: 385px; /* Đặt chiều rộng */
+  height: 28px;
+  
+}
+
+#select {
+  font-size: 12px; /* Đặt kích thước font */
+  padding: 4px; /* Đặt khoảng đệm */
+  height: 30px; /* Đặt chiều cao */
+  width: 385px;
+  margin: 10px 0 10px 0 ;
+}
+
+#area{
+    margin: 12px 0 15px 0;
+    width: 385px;
+    height: 40px;
+}
+
+button{
+    width: 388px;
+    height: 30px;
+    background-color: #f1cb9c;
+    border-radius: 8px;
+    text-align: center;
+    padding-right: 10px;
+    border: none;
+}
+p{
+    display: inline;
+}
