@@ -9,7 +9,7 @@ h1 {
   width: 400px;
   height: auto;
   padding: 30px 10px;
-  border: 1px solid black;
+  box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.2);
   background-color: white;
   margin: auto;
 }
@@ -26,7 +26,7 @@ h1 {
   padding: 4px; /* Đặt khoảng đệm */
   height: 30px; /* Đặt chiều cao */
   width: 385px;
-  margin: 10px 0 10px 0 ;
+  margin: 10px 0 10px    0 ;
 }
 
 #area{
