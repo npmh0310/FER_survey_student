@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../project_SWP/coloshop-master"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "coloshop-master"
+	}
+}
